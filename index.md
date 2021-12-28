@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[LinkedIn link](./another-page.html).
+[LinkedIn](https://www.linkedin.com/in/rashmeen-malhotra-a3756616a/).
 
 There should be whitespace between paragraphs.
 
