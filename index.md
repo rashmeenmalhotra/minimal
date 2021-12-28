@@ -6,5 +6,3 @@ Fraud detection
 # Project 2
 
 Lending Club
->
-
