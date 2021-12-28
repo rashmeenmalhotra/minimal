@@ -10,12 +10,13 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Fraud detection - This is my first ever project of ML AI course
+# Fraud detection - 
+
+This is my first ever project of ML AI course
 
 
 
-# Lending Club - This is my first assignmenet.I will implement all my learnings till now,here
-
+# Lending Club 
 > This is my first assignmenet
 > I will implement all my learnings till now,here
 
